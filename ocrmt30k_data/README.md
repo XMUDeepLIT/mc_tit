@@ -30,6 +30,8 @@ v2.0/
 
 The images can be get here. [whole_image](https://docs.google.com/forms/d/e/1FAIpQLSfghS7K1sf5leRA_Xh0pQRsuqmrNMuyUAYkYh2bBRa0NfAh6w/viewform?usp=sf_link)
 
+We have also uploaded the dataset to Hugging Face for easier access:
+https://huggingface.co/datasets/zhibinlan/OCRMT30K
 ```
 ├── whole_image // containing images with ID being the image filename (0,1,2, etc)
       └── OCRMT30K_00000.jpg
